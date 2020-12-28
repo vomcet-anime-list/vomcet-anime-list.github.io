@@ -2,27 +2,32 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1819/103287.jpg</image>
         <name>A Certain Scientific Railgun T</name>
-        <rating>6969</rating>
+        <rating>95</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/7/75610.jpg</image>
         <name>A Certain Scientific Railgun S</name>
-        <rating>6969</rating>
+        <rating>98</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/8/53581.jpg</image>
         <name>A Certain Scientific Railgun</name>
-        <rating>6969</rating>
+        <rating>89</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/79410.jpg</image>
         <name>Re:ZERO -Starting Life in Another World</name>
-        <rating>31114234</rating>
+        <rating>75</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
         <name>Re:ZERO -Starting Life in Another World- Season 2</name>
-        <rating>31114234</rating>
+        <rating>70</rating>
+        <status>finished</status>
     </anime>
 </animeset>
 

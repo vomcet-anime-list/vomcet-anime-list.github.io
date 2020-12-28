@@ -3,3 +3,6 @@
 @tailwind utilities;
 
 
+.gridjs-wrapper {
+    border-top-width: 0px;
+}
