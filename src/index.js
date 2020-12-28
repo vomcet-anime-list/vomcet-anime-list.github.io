@@ -3,20 +3,22 @@
 new gridjs.Grid({
     sort: true,
     search: true,
-    pagination: true,
+    pagination: false,
     columns: [
         { 
-          name: 'image',
-          width: '10%',
-          className: 'text-lime-600',
-          formatter: (cell) => gridjs.html(`<img src="${cell}">`)
+            id: 'image',
+            name: 'Image',
+            formatter: (cell) => gridjs.html(`<img class="max-h-40" src="${cell}">`)
         },
         { 
-            name: 'name',
-            className: 'text-lime-600',
-            formatter: (cell) => gridjs.html(`<p class="text-green-600 dark:text-lime-400 text-sm sm:text-base lg:text-sm xl:text-base font-semibold ">${cell}</p>`)
-          },
-        'rating',
+            id: 'name',
+            name: 'Name',
+
+        },
+        { 
+            id: 'rating',
+            name: 'Rating',
+        },
      ],
     server: {
         url: 'src/anime.xml',
@@ -33,13 +35,11 @@ new gridjs.Grid({
         }
       },
       className: {
-        table: 'table-auto border min-w-full ',
+        table: 'border',
         th : 'border',
         td : 'border',
-        thead : 'w-full',
-        search : 'border shadow md:w-64 rounded-lg mb-2 p2',
-        pagination : '-right-0 flex flex-col',
-        paginationSummary : 'flex-initial -right-0',
-        paginationButton : 'flex-initial -right-0',
+        //thead : 'w-full',
+        sort : 'box-border h-10 w-10 p-4 border-4',
+        search : 'shadow',
       }
   }).render(document.getElementById("gridWrapper"));
