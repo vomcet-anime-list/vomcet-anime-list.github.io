@@ -19,7 +19,10 @@ new gridjs.Grid({
             id: 'image',
             name: 'Image',
             formatter: (cell) => gridjs.html(`<img class="max-h-20" src="${cell}">`),
-            width: "30px"
+            width: "30px",
+            sort: {
+                enabled: false
+              }
         },
         { 
             id: 'name',
@@ -73,7 +76,7 @@ new gridjs.Grid({
         //search : 'shadow',
         paginationSummary  : 'dark:text-white dark:border-gray-900',
         header : 'dark:border-gray-900',
-        footer  : 'dark:bg-gray-700 dark:border-gray-900'
-        
+        footer  : 'dark:bg-gray-700 dark:border-gray-900',
+        paginationButton : "bg-gray-500"
       }
   }).render(document.getElementById("gridWrapper"));

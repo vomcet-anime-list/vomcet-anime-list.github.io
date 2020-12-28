@@ -6,3 +6,9 @@
 .gridjs-wrapper {
     border-top-width: 0px;
 }
+
+.gridjs-pages .gridjs-paginations {
+
+    border: 0px;
+
+}
