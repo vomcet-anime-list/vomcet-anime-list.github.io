@@ -8,7 +8,8 @@ new gridjs.Grid({
         { 
             id: 'image',
             name: 'Image',
-            formatter: (cell) => gridjs.html(`<img class="max-h-40" src="${cell}">`)
+            formatter: (cell) => gridjs.html(`<img class="max-h-20" src="${cell}">`),
+            width: "20px"
         },
         { 
             id: 'name',
@@ -35,9 +36,9 @@ new gridjs.Grid({
         }
       },
       className: {
-        table: 'border',
-        th : 'border',
-        td : 'border',
+        table: ' antialiased font-sans font-bold text-lg text-gray-500',
+        th : '',
+        td : ' max-h-4',
         //thead : 'w-full',
         sort : 'box-border h-10 w-10 p-4 border-4',
         search : 'shadow',
