@@ -1,7 +1,6 @@
 
 
 new gridjs.Grid({
-    columns: ["Name", "Email", "Phone Number"],
     sort: true,
     search: true,
     pagination: true,
@@ -9,9 +8,14 @@ new gridjs.Grid({
         { 
           name: 'image',
           width: '10%',
+          className: 'text-lime-600',
           formatter: (cell) => gridjs.html(`<img src="${cell}">`)
         },
-        'name',
+        { 
+            name: 'name',
+            className: 'text-lime-600',
+            formatter: (cell) => gridjs.html(`<p class="text-green-600 dark:text-lime-400 text-sm sm:text-base lg:text-sm xl:text-base font-semibold ">${cell}</p>`)
+          },
         'rating',
      ],
     server: {
@@ -29,12 +33,11 @@ new gridjs.Grid({
         }
       },
       className: {
-
         table: 'table-auto border min-w-full ',
-        th : 'border ',
+        th : 'border',
         td : 'border',
         thead : 'w-full',
-        search : 'border shadow md:w-64 rounded-lg m-2 p2',
+        search : 'border shadow md:w-64 rounded-lg mb-2 p2',
         pagination : '-right-0 flex flex-col',
         paginationSummary : 'flex-initial -right-0',
         paginationButton : 'flex-initial -right-0',
