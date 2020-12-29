@@ -9,7 +9,6 @@ function toggleDarkMode() {
     }
 }
 
-
 new gridjs.Grid({
     sort: true,
     search: false,
@@ -27,7 +26,6 @@ new gridjs.Grid({
         { 
             id: 'name',
             name: 'Name',
-
         },
         { 
             id: 'rating',

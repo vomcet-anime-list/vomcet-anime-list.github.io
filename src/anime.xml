@@ -20,7 +20,73 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/79410.jpg</image>
         <name>Re:ZERO -Starting Life in Another World</name>
-        <rating>75</rating>
+        <rating>85</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
+        <name>Re:ZERO -Starting Life in Another World- Season 2</name>
+        <rating>82</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1301/93586.jpg</image>
+        <name>Rascal Does Not Dream of Bunny Girl Senpai</name>
+        <rating>90</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/8/77831.jpg</image>
+        <name>KonoSuba: God's Blessing on This Wonderful World!</name>
+        <rating>85</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/2/83188.jpg</image>
+        <name>KonoSuba: God's Blessing on This Wonderful World! 2</name>
+        <rating>86</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1856/100031.jpg</image>
+        <name>KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson</name>
+        <rating>80</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1295/106551.jpg</image>
+        <name>Kaguya-sama: Love is War</name>
+        <rating>92</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1764/106659.jpg</image>
+        <name>Kaguya-sama: Love is War Season 2</name>
+        <rating>93</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/6/79597.jpg</image>
+        <name>Spirited Away</name>
+        <rating>95</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/3/50389.jpg</image>
+        <name>Baka Test - Summon the Beasts</name>
+        <rating>95</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/3/28992.jpg</image>
+        <name>Baka Test – Summon the Beasts 2</name>
+        <rating>96</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/7/75199.jpg</image>
+        <name>Detective Conan</name>
+        <rating>99</rating>
         <status>finished</status>
     </anime>
     <anime>
@@ -29,5 +95,12 @@
         <rating>70</rating>
         <status>finished</status>
     </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
+        <name>Re:ZERO -Starting Life in Another World- Season 2</name>
+        <rating>70</rating>
+        <status>finished</status>
+    </anime>
+
 </animeset>
 
