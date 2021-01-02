@@ -1,5 +1,11 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1613/102179.jpg</image>
+        <name>Rascal Does Not Dream of Bunny Girl Senpai Movie</name>
+        <rating>103</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1819/103287.jpg</image>
         <name>A Certain Scientific Railgun T</name>
         <rating>95</rating>
@@ -89,18 +95,5 @@
         <rating>99</rating>
         <status>finished</status>
     </anime>
-    <anime>
-        <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
-        <name>Re:ZERO -Starting Life in Another World- Season 2</name>
-        <rating>70</rating>
-        <status>finished</status>
-    </anime>
-    <anime>
-        <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
-        <name>Re:ZERO -Starting Life in Another World- Season 2</name>
-        <rating>70</rating>
-        <status>finished</status>
-    </anime>
-
 </animeset>
 
