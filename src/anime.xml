@@ -1,6 +1,24 @@
 <animeset>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1613/102179.jpg</image>
+        <name>Yuru Camp△</name>
+        <rating>97</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1068/111129.jpg</image>
+        <name>Mushoku Tensei: Jobless Reincarnation</name>
+        <rating>95</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/6/88286.jpg</image>
+        <name>Blend S</name>
+        <rating>79</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1613/102179.jpg</image>
         <name>Rascal Does Not Dream of Bunny Girl Senpai Movie</name>
         <rating>103</rating>
         <status>finished</status>
@@ -33,7 +51,7 @@
         <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
         <name>Re:ZERO -Starting Life in Another World- Season 2</name>
         <rating>82</rating>
-        <status>finished</status>
+        <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1301/93586.jpg</image>
