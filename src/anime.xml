@@ -1,8 +1,56 @@
 <animeset>
     <anime>
-        <image>https://cdn.myanimelist.net/images/anime/1613/102179.jpg</image>
-        <name>Yuru Camp△</name>
+        <image>https://cdn.myanimelist.net/images/anime/2/39665.jpg</image>
+        <name>Kokoro Connect</name>
+        <rating>91</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1438/105344.jpg</image>
+        <name>I Don't Want to Get Hurt, so I'll Max Out My Defense.</name>
+        <rating>80</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1079/110751.jpg</image>
+        <name>Wonder Egg Priority</name>
+        <rating>95</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/13/50521.jpg</image>
+        <name>hyouka</name>
         <rating>97</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/10/76120.jpg</image>
+        <name>K-On!</name>
+        <rating>103</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/2/51581.jpg</image>
+        <name>Non Non Biyori</name>
+        <rating>90</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1614/90408.jpg</image>
+        <name>Darling in the FranXX</name>
+        <rating>169</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1255/110636.jpg</image>
+        <name>Yuru Camp△ Season 2</name>
+        <rating>95</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/4/89877.jpg</image>
+        <name>Yuru Camp△</name>
+        <rating>95</rating>
         <status>finished</status>
     </anime>
     <anime>
@@ -15,7 +63,7 @@
         <image>https://cdn.myanimelist.net/images/anime/6/88286.jpg</image>
         <name>Blend S</name>
         <rating>79</rating>
-        <status>watching</status>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1613/102179.jpg</image>
@@ -44,13 +92,13 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/79410.jpg</image>
         <name>Re:ZERO -Starting Life in Another World</name>
-        <rating>85</rating>
+        <rating>92</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
         <name>Re:ZERO -Starting Life in Another World- Season 2</name>
-        <rating>82</rating>
+        <rating>90</rating>
         <status>watching</status>
     </anime>
     <anime>

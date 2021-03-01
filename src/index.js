@@ -30,7 +30,21 @@ new gridjs.Grid({
         {
             id: 'rating',
             name: 'Rating',
-            width: "30px"
+            width: "30px",
+            sort: {
+                compare: (c, d) => {
+                    const a = parseInt(c);
+                    const b = parseInt(d);
+                  
+                    if (a > b) {
+                        return 1;
+                    } else if (b > a) {
+                        return -1;
+                    } else {
+                        return 0;
+                    }
+                }
+            }
         },
         {
             id: 'status',
