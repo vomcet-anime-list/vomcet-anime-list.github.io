@@ -18,7 +18,7 @@ new gridjs.Grid({
             id: 'image',
             name: 'Image',
             formatter: (cell) => gridjs.html(`<img class="max-h-20" src="${cell}">`),
-            width: "30px",
+            width: '30px',
             sort: {
                 enabled: false
             }
@@ -30,7 +30,7 @@ new gridjs.Grid({
         {
             id: 'rating',
             name: 'Rating',
-            width: "30px",
+            //width: '5%',
             sort: {
                 compare: (c, d) => {
                     const a = parseInt(c);
@@ -49,14 +49,15 @@ new gridjs.Grid({
         {
             id: 'status',
             name: 'status',
+            width: '30%',
             formatter: (cell, row) => {
                 if(row.cells[3].data == "finished"){
                     return gridjs.h('a', {
-                        className: 'py-2 mb-4 px-4 rounded-md text-white bg-green-400',
+                        className: 'py-2 mb-4 px-3 rounded-md text-white bg-green-400',
                     }, 'Finished');
                 }else if(row.cells[3].data == "watching"){
                     return gridjs.h('a', {
-                        className: 'py-2 mb-4 px-4 rounded-md text-white bg-blue-400',
+                        className: 'py-2 mb-4 px-3 rounded-md text-white bg-blue-400',
                     }, 'Watching');
                 }
             }
