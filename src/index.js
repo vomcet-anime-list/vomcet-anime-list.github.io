@@ -49,15 +49,15 @@ new gridjs.Grid({
         {
             id: 'status',
             name: 'status',
-            width: '30%',
+            width: '30px',
             formatter: (cell, row) => {
                 if(row.cells[3].data == "finished"){
                     return gridjs.h('a', {
-                        className: 'py-2 mb-4 px-3 rounded-md text-white bg-green-400',
+                        className: 'py-2 mb-4 px-2 rounded-md text-white bg-green-400',
                     }, 'Finished');
                 }else if(row.cells[3].data == "watching"){
                     return gridjs.h('a', {
-                        className: 'py-2 mb-4 px-3 rounded-md text-white bg-blue-400',
+                        className: 'py-2 mb-4 px-2 rounded-md text-white bg-blue-400',
                     }, 'Watching');
                 }
             }
