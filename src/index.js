@@ -12,7 +12,9 @@ function toggleDarkMode() {
 new gridjs.Grid({
     sort: true,
     search: false,
-    pagination: true,
+    pagination: {
+        limit: 25
+    },
     columns: [
         { 
             id: 'image',
@@ -26,19 +28,20 @@ new gridjs.Grid({
         { 
             id: 'name',
             name: 'Name',
+            width: '40%',
         },
         {
             id: 'rating',
             name: 'Rating',
-            //width: '5%',
+            width: '10%',
             sort: {
                 compare: (c, d) => {
-                    const a = parseInt(c);
-                    const b = parseInt(d);
+                    // const a = parseInt(c);
+                    // const b = parseInt(d);
                   
-                    if (a > b) {
+                    if (parseInt(c) > parseInt(d)) {
                         return 1;
-                    } else if (b > a) {
+                    } else if (parseInt(d) > parseInt(c)) {
                         return -1;
                     } else {
                         return 0;
@@ -49,7 +52,7 @@ new gridjs.Grid({
         {
             id: 'status',
             name: 'status',
-            width: '30px',
+            width: '10%',
             formatter: (cell, row) => {
                 if(row.cells[3].data == "finished"){
                     return gridjs.h('a', {
