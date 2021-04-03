@@ -20,7 +20,7 @@ new gridjs.Grid({
             id: 'image',
             name: 'Image',
             formatter: (cell) => gridjs.html(`<img class="max-h-20" src="${cell}">`),
-            width: '30px',
+            width: '5%',
             sort: {
                 enabled: false
             }
