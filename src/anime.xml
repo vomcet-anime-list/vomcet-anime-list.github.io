@@ -1,5 +1,41 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/6/89879.jpg</image>
+        <name>A Place Further Than The Universe</name>
+        <rating>106</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1385/101060.jpg</image>
+        <name>How heavy are the dumbbells you lift?</name>
+        <rating>97</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1447/99827.jpg</image>
+        <name>Fruits Basket 1st Season</name>
+        <rating>94</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1302/94882.jpg</image>
+        <name>Grand Blue</name>
+        <rating>89</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1580/93526.jpg</image>
+        <name>Hinamatsuri</name>
+        <rating>92</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/11/89556.jpg</image>
+        <name>Maquia: When the Promised Flower Blooms</name>
+        <rating>98</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1328/111351.jpg</image>
         <name>Shirobako Movie</name>
         <rating>97</rating>
@@ -177,7 +213,7 @@
         <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
         <name>Re:ZERO -Starting Life in Another World- Season 2</name>
         <rating>95</rating>
-        <status>watching</status>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1301/93586.jpg</image>
