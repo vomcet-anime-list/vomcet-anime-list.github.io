@@ -32,13 +32,16 @@ const findDuplicates = (xmlData) => {
     data = xmlData.animeset.anime
     //console.log(data)
     data.sort(sortOrder('image'))
-
+    var foundOrNot = false;
     for(let i = 0; i < data.length - 1; i++){
         //console.log(i)
         if(data[i].image[0] == data[i + 1].image[0]){
+            foundOrNot = true;
             console.log(`'${data[i].name[0]}' is a duplicate`)
         }
     }
+    if(!foundOrNot){
+        console.log('no dups found')
+    }
 }
 
-//TODO: add autodelete 

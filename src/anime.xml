@@ -1,98 +1,134 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1981/113348.jpg</image>
+        <name>Odd Taxi</name>
+        <rating>136</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1900/110097.jpg</image>
+        <name>Ijiranaide, Nagatoro-san</name>
+        <rating>100</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1134/111757.jpg</image>
+        <name>To Your Eternity</name>
+        <rating>134</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1146/113477.jpg</image>
+        <name>Hige wo Soru. Soshite Joshikousei wo Hirou.</name>
+        <rating>113</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1104/113797.jpg</image>
+        <name>86</name>
+        <rating>103</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1404/113722.jpg</image>
+        <name>Vivy: Fluorite Eye's Song</name>
+        <rating>136</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1262/113705.jpg</image>
+        <name>Combatants Will Be Dispatched!</name>
+        <rating>98</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/6/89879.jpg</image>
         <name>A Place Further Than The Universe</name>
-        <rating>106</rating>
+        <rating>135</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1385/101060.jpg</image>
         <name>How heavy are the dumbbells you lift?</name>
-        <rating>97</rating>
+        <rating>126</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1447/99827.jpg</image>
         <name>Fruits Basket 1st Season</name>
-        <rating>94</rating>
+        <rating>101</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1302/94882.jpg</image>
         <name>Grand Blue</name>
-        <rating>89</rating>
+        <rating>112</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1580/93526.jpg</image>
         <name>Hinamatsuri</name>
-        <rating>92</rating>
+        <rating>100</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/89556.jpg</image>
         <name>Maquia: When the Promised Flower Blooms</name>
-        <rating>98</rating>
+        <rating>137</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1328/111351.jpg</image>
         <name>Shirobako Movie</name>
-        <rating>97</rating>
+        <rating>101</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1918/93511.jpg</image>
         <name>Shirobako</name>
-        <rating>103</rating>
+        <rating>130</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1805/99571.jpg</image>
         <name>One Punch Man 2nd Season</name>
-        <rating>93</rating>
+        <rating>95</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/12/76049.jpg</image>
         <name>One Punch Man</name>
-        <rating>105</rating>
+        <rating>115</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1079/110751.jpg</image>
         <name>Wonder Egg Priority (i love ai chan)</name>
-        <rating>103</rating>
+        <rating>165</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/9/75105.jpg</image>
         <name>Non Non Biyori Repeat</name>
-        <rating>93</rating>
+        <rating>124</rating>
         <status>watching</status>
-    </anime>
-    <anime>
-        <image>https://cdn.myanimelist.net/images/anime/1068/111129.jpg</image>
-        <name>Mushoku Tensei: Jobless Reincarnation</name>
-        <rating>96</rating>
-        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1139/95077.jpg</image>
         <name>Asobi Asobase</name>
-        <rating>94</rating>
+        <rating>131</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/75617.jpg</image>
         <name>Nichijou</name>
-        <rating>96</rating>
+        <rating>129</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1649/109056.jpg</image>
         <name>Adachi to Shimamura</name>
-        <rating>88</rating>
+        <rating>102</rating>
         <status>watching</status>
     </anime>
     <anime>
@@ -104,43 +140,43 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1393/107033.jpg</image>
         <name>Karakai Jouzu no Takagi-san 2</name>
-        <rating>92</rating>
+        <rating>99</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1591/95091.jpg</image>
         <name>Karakai Jouzu no Takagi-san</name>
-        <rating>91</rating>
+        <rating>98</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/2/39665.jpg</image>
         <name>Kokoro Connect</name>
-        <rating>86</rating>
+        <rating>90</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1438/105344.jpg</image>
         <name>I Don't Want to Get Hurt, so I'll Max Out My Defense.</name>
-        <rating>80</rating>
+        <rating>95</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/13/50521.jpg</image>
         <name>Hyouka</name>
-        <rating>97</rating>
+        <rating>134</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/10/76120.jpg</image>
         <name>K-On!</name>
-        <rating>103</rating>
+        <rating>168</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/2/51581.jpg</image>
         <name>Non Non Biyori</name>
-        <rating>93</rating>
+        <rating>120</rating>
         <status>finished</status>
     </anime>
     <anime>
@@ -152,121 +188,121 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1255/110636.jpg</image>
         <name>Yuru Camp△ Season 2</name>
-        <rating>95</rating>
+        <rating>125</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/4/89877.jpg</image>
         <name>Yuru Camp△</name>
-        <rating>95</rating>
+        <rating>121</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1068/111129.jpg</image>
         <name>Mushoku Tensei: Jobless Reincarnation</name>
-        <rating>95</rating>
+        <rating>110</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/6/88286.jpg</image>
         <name>Blend S</name>
-        <rating>79</rating>
+        <rating>80</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1613/102179.jpg</image>
         <name>Rascal Does Not Dream of Bunny Girl Senpai Movie</name>
-        <rating>103</rating>
+        <rating>168</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1819/103287.jpg</image>
         <name>A Certain Scientific Railgun T</name>
-        <rating>103</rating>
+        <rating>135</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/7/75610.jpg</image>
         <name>A Certain Scientific Railgun S</name>
-        <rating>106</rating>
+        <rating>135</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/8/53581.jpg</image>
         <name>A Certain Scientific Railgun</name>
-        <rating>106</rating>
+        <rating>135</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/79410.jpg</image>
         <name>Re:ZERO -Starting Life in Another World</name>
-        <rating>95</rating>
+        <rating>106</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
         <name>Re:ZERO -Starting Life in Another World- Season 2</name>
-        <rating>95</rating>
+        <rating>103</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1301/93586.jpg</image>
         <name>Rascal Does Not Dream of Bunny Girl Senpai</name>
-        <rating>100</rating>
+        <rating>168</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/8/77831.jpg</image>
         <name>KonoSuba: God's Blessing on This Wonderful World!</name>
-        <rating>91</rating>
+        <rating>134</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/2/83188.jpg</image>
         <name>KonoSuba: God's Blessing on This Wonderful World! 2</name>
-        <rating>91</rating>
+        <rating>133</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1856/100031.jpg</image>
         <name>KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson</name>
-        <rating>89</rating>
+        <rating>133</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1295/106551.jpg</image>
         <name>Kaguya-sama: Love is War</name>
-        <rating>92</rating>
+        <rating>123</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1764/106659.jpg</image>
         <name>Kaguya-sama: Love is War Season 2</name>
-        <rating>93</rating>
+        <rating>123</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/6/79597.jpg</image>
         <name>Spirited Away</name>
-        <rating>95</rating>
+        <rating>120</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/50389.jpg</image>
         <name>Baka Test - Summon the Beasts</name>
-        <rating>95</rating>
+        <rating>101</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/28992.jpg</image>
         <name>Baka Test – Summon the Beasts 2</name>
-        <rating>96</rating>
+        <rating>101</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/7/75199.jpg</image>
         <name>Detective Conan</name>
-        <rating>99</rating>
+        <rating>130</rating>
         <status>finished</status>
     </anime>
 </animeset>
