@@ -61,6 +61,10 @@ new gridjs.Grid({
                     return gridjs.h('a', {
                         className: 'py-2 mb-4 px-2 rounded-md text-white bg-blue-400',
                     }, 'Watching');
+                }else if(row.cells[3].data == "planned"){
+                    return gridjs.h('a', {
+                        className: 'py-2 mb-4 px-2 rounded-md text-white bg-yellow-400',
+                    }, 'Planned');
                 }
             }
         }

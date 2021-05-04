@@ -1,5 +1,47 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1468/109172.jpg</image>
+        <name>Akudama Drive</name>
+        <rating>-1</rating>
+        <status>planned</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/12/46931.jpg</image>
+        <name>Love, Chunibyo and Other Delusions!</name>
+        <rating>-1</rating>
+        <status>planned</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1795/95088.jpg</image>
+        <name>Violet Evergarden</name>
+        <rating>-1</rating>
+        <status>planned</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/3/67177.jpg</image>
+        <name>Your Lie in April</name>
+        <rating>-1</rating>
+        <status>planned</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/3/88816.jpg</image>
+        <name>Pop Team Epic</name>
+        <rating>106</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1424/113342.jpg</image>
+        <name>Shadows House</name>
+        <rating>122</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1925/110172.jpg</image>
+        <name>Pretty Boy Detective Club</name>
+        <rating>114</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1981/113348.jpg</image>
         <name>Odd Taxi</name>
         <rating>136</rating>
@@ -44,8 +86,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/6/89879.jpg</image>
         <name>A Place Further Than The Universe</name>
-        <rating>135</rating>
-        <status>watching</status>
+        <rating>169</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1385/101060.jpg</image>
@@ -303,6 +345,6 @@
         <image>https://cdn.myanimelist.net/images/anime/7/75199.jpg</image>
         <name>Detective Conan</name>
         <rating>130</rating>
-        <status>finished</status>
+        <status>watching</status>
     </anime>
 </animeset>
