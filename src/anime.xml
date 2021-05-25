@@ -1,13 +1,55 @@
 <animeset>
     <anime>
-        <image>https://cdn.myanimelist.net/images/anime/1468/109172.jpg</image>
-        <name>Akudama Drive</name>
+        <image>https://cdn.myanimelist.net/images/anime/11/89985.jpg</image>
+        <name>Citrus</name>
         <rating>-1</rating>
         <status>planned</status>
     </anime>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1694/93337.jpg</image>
+        <name>That Time I Got Reincarnated as a Slime</name>
+        <rating>122</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1464/111943.jpg</image>
+        <name>Kill la Kill</name>
+        <rating>135</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/5/85434.jpg</image>
+        <name>Miss Kobayashi's Dragon Maid</name>
+        <rating>130</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/12/46931.jpg</image>
-        <name>Love, Chunibyo and Other Delusions!</name>
+        <name>Chuunibyou demo Koi ga Shitai!</name>
+        <rating>133</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1613/108722.jpg</image>
+        <name>Tonikaku Kawaii</name>
+        <rating>128</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/2/84797.jpg</image>
+        <name>How to Raise a Boring Girlfriend flat</name>
+        <rating>130</rating>
+        <status>watching</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/7/68783.jpg</image>
+        <name>How to Raise a Boring Girlfriend</name>
+        <rating>132</rating>
+        <status>finished</status>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1468/109172.jpg</image>
+        <name>Akudama Drive</name>
         <rating>-1</rating>
         <status>planned</status>
     </anime>
@@ -110,7 +152,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1580/93526.jpg</image>
         <name>Hinamatsuri</name>
-        <rating>110</rating>
+        <rating>135</rating>
         <status>watching</status>
     </anime>
     <anime>

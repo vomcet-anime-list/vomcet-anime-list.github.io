@@ -4,15 +4,17 @@ const fs = require('fs')
 let parser = new xml2js.Parser();
 let xmlData;
 
-fs.readFile('../src/anime.xml', function(err, data) {
-    //smh async
-    parser.parseString(data, function (err, result) {
+fs.readFile('./src/anime.xml', (err, data) => {
+    if(err){ console.log(err)}
+    
+    parser.parseString(data,  (err, result) => {
         xmlData = result;
-        // console.log(result);
+        
         // console.log('Done');
         findDuplicates(xmlData)
     });
 });
+
 
 const sortOrder = (name) => {
     //this is used for array.sort but based on the element of the object
@@ -27,9 +29,9 @@ const sortOrder = (name) => {
 }
 
 
-const findDuplicates = (xmlData) => {
+const findDuplicates = async () => {
     //loops over the sorted object and see if there are duplicates 
-    data = xmlData.animeset.anime
+    data = await xmlData.animeset.anime
     //console.log(data)
     data.sort(sortOrder('image'))
     var foundOrNot = false;
