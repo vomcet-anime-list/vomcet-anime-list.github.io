@@ -1,9 +1,123 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1160/99995.jpg</image>
+        <name>A Certain Scientific Accelerator</name>
+        <rating>130</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1885/93861.jpg</image>
+        <name>A Certain Magical Index the Movie: The Miracle of Endymion</name>
+        <rating>135</rating>
+        <status>finished</status>
+        <type>movie</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1583/93857.jpg</image>
+        <name>A Certain Magical Index III</name>
+        <rating>125</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1654/112033.jpg</image>
+        <name>The Testament of Sister New Devil</name>
+        <rating>100</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1151/94750.jpg</image>
+        <name>The Testament of Sister New Devil: Burst</name>
+        <rating>100</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/9/75612.jpg</image>
+        <name>A Certain Magical Index II</name>
+        <rating>133</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/2/75533.jpg</image>
+        <name>A Certain Magical Index</name>
+        <rating>130</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1189/93528.jpg</image>
+        <name>High School DxD Hero</name>
+        <rating>135</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/12/73642.jpg</image>
+        <name>High School DxD BorN</name>
+        <rating>120</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/12/47729.jpg</image>
+        <name>High School DxD New</name>
+        <rating>131</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1331/111940.jpg</image>
+        <name>High School DxD</name>
+        <rating>130</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/11/9490.jpg</image>
+        <name>Kanokon</name>
+        <rating>125</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/8/48925.jpg</image>
+        <name>Joshiraku</name>
+        <rating>130</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/5/76216.jpg</image>
+        <name>Yosuga no Sora</name>
+        <rating>126</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1819/97947.jpg</image>
+        <name>The Quintessential Quintuplets</name>
+        <rating>124</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/5/73199.jpg</image>
+        <name>Steins;Gate</name>
+        <rating>160</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/89985.jpg</image>
         <name>Citrus</name>
         <rating>-1</rating>
         <status>planned</status>
+        <type>tv</type>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1694/93337.jpg</image>
@@ -20,8 +134,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/5/85434.jpg</image>
         <name>Miss Kobayashi's Dragon Maid</name>
-        <rating>130</rating>
-        <status>watching</status>
+        <rating>149</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/12/46931.jpg</image>
@@ -32,8 +146,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1613/108722.jpg</image>
         <name>Tonikaku Kawaii</name>
-        <rating>128</rating>
-        <status>watching</status>
+        <rating>132</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/2/84797.jpg</image>
@@ -56,8 +170,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1795/95088.jpg</image>
         <name>Violet Evergarden</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>155</rating>
+        <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/67177.jpg</image>
@@ -68,7 +182,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/88816.jpg</image>
         <name>Pop Team Epic</name>
-        <rating>106</rating>
+        <rating>116</rating>
         <status>watching</status>
     </anime>
     <anime>
@@ -80,7 +194,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1925/110172.jpg</image>
         <name>Pretty Boy Detective Club</name>
-        <rating>114</rating>
+        <rating>104</rating>
         <status>watching</status>
     </anime>
     <anime>
@@ -140,8 +254,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1447/99827.jpg</image>
         <name>Fruits Basket 1st Season</name>
-        <rating>111</rating>
-        <status>watching</status>
+        <rating>-1</rating>
+        <status>planned</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1302/94882.jpg</image>
@@ -164,13 +278,13 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1328/111351.jpg</image>
         <name>Shirobako Movie</name>
-        <rating>101</rating>
+        <rating>121</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1918/93511.jpg</image>
         <name>Shirobako</name>
-        <rating>130</rating>
+        <rating>150</rating>
         <status>finished</status>
     </anime>
     <anime>
@@ -224,13 +338,13 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1393/107033.jpg</image>
         <name>Karakai Jouzu no Takagi-san 2</name>
-        <rating>109</rating>
+        <rating>119</rating>
         <status>watching</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1591/95091.jpg</image>
         <name>Karakai Jouzu no Takagi-san</name>
-        <rating>108</rating>
+        <rating>118</rating>
         <status>finished</status>
     </anime>
     <anime>
@@ -320,13 +434,13 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/79410.jpg</image>
         <name>Re:ZERO -Starting Life in Another World</name>
-        <rating>106</rating>
+        <rating>126</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1444/108005.jpg</image>
         <name>Re:ZERO -Starting Life in Another World- Season 2</name>
-        <rating>103</rating>
+        <rating>123</rating>
         <status>finished</status>
     </anime>
     <anime>
@@ -374,13 +488,13 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/50389.jpg</image>
         <name>Baka Test - Summon the Beasts</name>
-        <rating>101</rating>
+        <rating>111</rating>
         <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/28992.jpg</image>
         <name>Baka Test – Summon the Beasts 2</name>
-        <rating>101</rating>
+        <rating>111</rating>
         <status>finished</status>
     </anime>
     <anime>

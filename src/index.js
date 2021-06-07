@@ -1,4 +1,12 @@
 const html = document.getElementsByTagName('body')[0];    
+const ctxStatus = document.getElementById('statusChart');
+//Chart.defaults.global.legend.display = false;
+const style = getComputedStyle(document.body).getPropertyValue('bg-green-400');
+
+//finished, watching, planned
+let statusData = [0, 0, 0]
+let xmlData
+
 
 function toggleDarkMode() {
     if(html.classList.contains('dark')) {
@@ -98,3 +106,63 @@ new gridjs.Grid({
         paginationButton : "bg-gray-500"
     }
 }).render(document.getElementById("gridWrapper"));
+
+const statusChartConfig = {
+    // labels: [
+    //     'finished',
+    //     'watching',
+    //     'planned'
+    // ],
+    datasets: [{
+        label: 'Status dataset',
+        data: statusData,
+        backgroundColor: [
+            'rgb(255, 99, 132)',
+            'rgb(54, 162, 235)',
+            'rgb(255, 205, 86)'
+        ],
+        hoverOffset: 4
+    }],
+
+}
+
+fetch('/src/anime.xml').then( bruh => {
+    return bruh.text()
+}).then(data => {
+    xmlData = fuckXml(data)
+    xmlArray = Array.from(xmlData.childNodes[0].querySelectorAll('anime'))
+    console.log(xmlArray)
+    for(i = 0; i < xmlArray.length; i++){
+        
+        if(xmlArray[i].querySelector('status').innerHTML == 'finished'){
+            statusData[0]++
+        }else if(xmlArray[i].querySelector('status').innerHTML == 'watching'){
+            statusData[1]++
+        }else{
+            statusData[2]++
+        }
+    }
+    console.log(statusData)
+}).then( bruh =>{
+    const myChart = new Chart(ctxStatus, {
+        type: 'pie',
+        data: statusChartConfig,
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+        }
+    });
+    setStatusNumbers()
+})
+
+
+//this is in browser so fuck you
+const fuckXml = (theXmlShit) => {
+    return ( new window.DOMParser() ).parseFromString(theXmlShit, "text/xml");
+}
+
+const setStatusNumbers = () => {
+    document.getElementById('statusFinished').innerHTML = statusData[0]
+    document.getElementById('statusWatching').innerHTML = statusData[1]
+    document.getElementById('statusPlanned').innerHTML = statusData[2]
+}

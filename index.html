@@ -14,6 +14,7 @@
         <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet"/>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.1.2/tailwind-dark.min.css" rel="stylesheet">
         <link href="/src/style.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.production.min.js" defer ></script>
         <script src="/src/index.js" defer></script>
 
@@ -40,9 +41,42 @@
                 </div>
             </div>
             <div class="lg:pl-10 lg:pr-10 pt-10 pb-10">
+                <!-- the status chart section -->
                 <div class="bg-white dark:bg-gray-800 lg:container shadow-2xl rounded-2xl mx-auto mb-10">
-                    <img class="object-cover rounded-2xl w-full sm:h-128 h-64" src="/src/chika.jpg">
+                    <!-- <img class="object-cover rounded-2xl w-full sm:h-128 h-64" src="/src/chika.jpg"> -->
+                    <div class="flex flex-row rounded-2xl w-full sm:h-128 h-48">
+                        <div class="flex-auto max-w-128">
+                            <div class="relative h-48 max-w-48 p-5 flex flex-row" id="statusSection">
+                                <div class="flex-initial relative w-40">
+                                    <canvas id="statusChart"></canvas>
+                                </div>
+                                <div class="pl-4 flex flex-col gap-4">
+                                    <div class="flex flex-row h-10 w-40 bg-red-400 rounded-md">
+                                        <div class="flex-grow p-2 text-gray-100">Finished</div>
+                                        <div class="flex flex-grow-0 w-10 rounded-md bg-red-500 justify-center items-center text-gray-100" id="statusFinished"></div>
+                                    </div>
+                                    <div class="flex flex-row h-10 w-40 bg-blue-400 rounded-md">
+                                        <div class="flex-grow p-2 text-gray-100">Watching</div>
+                                        <div class="flex flex-grow-0 w-10 rounded-md bg-blue-500 justify-center items-center text-gray-100" id="statusWatching"></div>
+                                    </div>
+                                    <div class="flex flex-row h-10 w-40 bg-yellow-400 rounded-md">
+                                        <div class="flex-grow p-2 text-gray-100">Planned</div>
+                                        <div class="flex flex-grow-0 w-10 rounded-md bg-yellow-500 justify-center items-center text-gray-100" id="statusPlanned"></div>
+                                    </div>
+                                </div>
+                                <div class="ml-4 p-2 relative h-40 w-64 font-medium text-gray-900 border-2 rounded-2xl bg-blue-200 dark:bg-blue-600 dark:text-gray-100" >
+                                    Welcome to icanc's anime list.
+                                    This is a badly made anime list with tailwind and html.
+                                    The scores are based on enjoyment.
+                                    MyAnimeList, is bad.
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
                 </div>
+                <!-- the list section -->
                 <div class="bg-white dark:bg-gray-800 shadow-2xl lg:container mx-auto p-5 rounded-2xl">
                     <div class="" id="gridWrapper"></div>
                 </div>
