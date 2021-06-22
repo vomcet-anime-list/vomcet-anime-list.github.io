@@ -1,5 +1,12 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1348/102797.jpg</image>
+        <name>Ore wo Suki nano wa Omae dake ka yo</name>
+        <rating>139</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1160/99995.jpg</image>
         <name>A Certain Scientific Accelerator</name>
         <rating>130</rating>
@@ -230,14 +237,14 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1404/113722.jpg</image>
         <name>Vivy: Fluorite Eye's Song</name>
-        <rating>136</rating>
-        <status>watching</status>
+        <rating>169</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1262/113705.jpg</image>
         <name>Combatants Will Be Dispatched!</name>
         <rating>108</rating>
-        <status>watching</status>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/6/89879.jpg</image>
@@ -266,8 +273,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1580/93526.jpg</image>
         <name>Hinamatsuri</name>
-        <rating>135</rating>
-        <status>watching</status>
+        <rating>148</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/89556.jpg</image>
