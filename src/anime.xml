@@ -1,5 +1,82 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1154/115599.jpg</image>
+        <name>Jahy-sama wa Kujikenai!</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1252/115539.jpg</image>
+        <name>Kobayashi-san Chi no Maid Dragon S</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1916/112514.jpg</image>
+        <name>Ore, Tsushima</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1932/114952.jpg</image>
+        <name>Shiroi Suna no Aquatope</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1126/115635.jpg</image>
+        <name>Uramichi Oniisan</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1811/115541.jpg</image>
+        <name>Vanitas no Carte</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1471/115593.jpg</image>
+        <name>The Duke of Death and His Maid</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1987/115869.jpg</image>
+        <name>Sonny Boy</name>
+        <rating>145</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/10/86521.jpg</image>
+        <name>Fireworks, Should We See It from the Side or the Bottom?</name>
+        <rating>120</rating>
+        <status>finished</status>
+        <type>movie</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1880/101146.jpg</image>
+        <name>Weathering With You</name>
+        <rating>130</rating>
+        <status>finished</status>
+        <type>movie</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/11/55225.jpg</image>
+        <name>Mahou Shoujo Madoka★Magica</name>
+        <rating>140</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1348/102797.jpg</image>
         <name>Ore wo Suki nano wa Omae dake ka yo</name>
         <rating>139</rating>
@@ -489,7 +566,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/6/79597.jpg</image>
         <name>Spirited Away</name>
-        <rating>120</rating>
+        <rating>130</rating>
         <status>finished</status>
     </anime>
     <anime>

@@ -131,7 +131,7 @@ fetch('/src/anime.xml').then( bruh => {
 }).then(data => {
     xmlData = fuckXml(data)
     xmlArray = Array.from(xmlData.childNodes[0].querySelectorAll('anime'))
-    console.log(xmlArray)
+    //console.log(xmlArray)
     for(i = 0; i < xmlArray.length; i++){
         
         if(xmlArray[i].querySelector('status').innerHTML == 'finished'){
@@ -142,7 +142,7 @@ fetch('/src/anime.xml').then( bruh => {
             statusData[2]++
         }
     }
-    console.log(statusData)
+    //console.log(statusData)
 }).then( bruh =>{
     const myChart = new Chart(ctxStatus, {
         type: 'pie',
@@ -162,7 +162,10 @@ const fuckXml = (theXmlShit) => {
 }
 
 const setStatusNumbers = () => {
+    console.log(statusData)
     document.getElementById('statusFinished').innerHTML = statusData[0]
     document.getElementById('statusWatching').innerHTML = statusData[1]
     document.getElementById('statusPlanned').innerHTML = statusData[2]
+    document.getElementById('totalAnime').innerHTML = statusData[0] + statusData[1] + statusData[2]
+    document.getElementById('totalAnimeWatched').innerHTML = (statusData[0])
 }
