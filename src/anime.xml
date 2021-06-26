@@ -1,5 +1,19 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1843/115815.jpg</image>
+        <name>Tantei wa Mou, Shindeiru.</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1013/113747.jpg</image>
+        <name>Kanojo mo Kanojo</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1154/115599.jpg</image>
         <name>Jahy-sama wa Kujikenai!</name>
         <rating>-1</rating>
@@ -80,7 +94,7 @@
         <image>https://cdn.myanimelist.net/images/anime/1348/102797.jpg</image>
         <name>Ore wo Suki nano wa Omae dake ka yo</name>
         <rating>139</rating>
-        <status>watching</status>
+        <status>finished</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -167,12 +181,11 @@
         <status>finished</status>
         <type>tv</type>
     </anime>
-
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/8/48925.jpg</image>
         <name>Joshiraku</name>
-        <rating>130</rating>
-        <status>watching</status>
+        <rating>146</rating>
+        <status>finished</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -186,7 +199,7 @@
         <image>https://cdn.myanimelist.net/images/anime/1819/97947.jpg</image>
         <name>The Quintessential Quintuplets</name>
         <rating>124</rating>
-        <status>watching</status>
+        <status>finished</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -307,9 +320,9 @@
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1104/113797.jpg</image>
-        <name>86</name>
-        <rating>103</rating>
-        <status>watching</status>
+        <name>86 part 1</name>
+        <rating>128</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1404/113722.jpg</image>
@@ -320,7 +333,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1262/113705.jpg</image>
         <name>Combatants Will Be Dispatched!</name>
-        <rating>108</rating>
+        <rating>118</rating>
         <status>finished</status>
     </anime>
     <anime>
