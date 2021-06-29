@@ -1,5 +1,26 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/11/49459.jpg</image>
+        <name>Yahari Ore no Seishun Love Comedy wa Machigatteiru.</name>
+        <rating>130</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1737/112772.jpg</image>
+        <name>Bokutachi no Remake</name>
+        <rating>-1</rating>
+        <status>planned</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/5/66083.jpg</image>
+        <name>Gekkan Shoujo Nozaki-kun</name>
+        <rating>135</rating>
+        <status>finished</status>
+        <type>tv</type>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/1843/115815.jpg</image>
         <name>Tantei wa Mou, Shindeiru.</name>
         <rating>-1</rating>
