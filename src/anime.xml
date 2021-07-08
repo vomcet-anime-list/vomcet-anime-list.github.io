@@ -1,16 +1,30 @@
 <animeset>
     <anime>
+        <image>https://cdn.myanimelist.net/images/anime/13/22128.jpg</image>
+        <name>Toradora!</name>
+        <rating>146</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
+        <image>https://cdn.myanimelist.net/images/anime/1535/115023.jpg</image>
+        <name>Peach Boy Riverside</name>
+        <rating>129</rating>
+        <status>watching</status>
+        <type>tv</type>
+    </anime>
+    <anime>
         <image>https://cdn.myanimelist.net/images/anime/11/49459.jpg</image>
         <name>Yahari Ore no Seishun Love Comedy wa Machigatteiru.</name>
-        <rating>130</rating>
+        <rating>137</rating>
         <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1737/112772.jpg</image>
         <name>Bokutachi no Remake</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>136</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -23,15 +37,15 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1843/115815.jpg</image>
         <name>Tantei wa Mou, Shindeiru.</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>141</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1013/113747.jpg</image>
         <name>Kanojo mo Kanojo</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>130</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -44,22 +58,22 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1252/115539.jpg</image>
         <name>Kobayashi-san Chi no Maid Dragon S</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>145</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1916/112514.jpg</image>
         <name>Ore, Tsushima</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>120</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1932/114952.jpg</image>
         <name>Shiroi Suna no Aquatope</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>149</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -79,8 +93,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1471/115593.jpg</image>
         <name>The Duke of Death and His Maid</name>
-        <rating>-1</rating>
-        <status>planned</status>
+        <rating>138</rating>
+        <status>watching</status>
         <type>tv</type>
     </anime>
     <anime>
@@ -240,7 +254,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1694/93337.jpg</image>
         <name>That Time I Got Reincarnated as a Slime</name>
-        <rating>122</rating>
+        <rating>132</rating>
         <status>watching</status>
     </anime>
     <anime>
@@ -288,8 +302,8 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1795/95088.jpg</image>
         <name>Violet Evergarden</name>
-        <rating>155</rating>
-        <status>watching</status>
+        <rating>161</rating>
+        <status>finished</status>
     </anime>
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/3/67177.jpg</image>
@@ -306,7 +320,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/1424/113342.jpg</image>
         <name>Shadows House</name>
-        <rating>122</rating>
+        <rating>132</rating>
         <status>watching</status>
     </anime>
     <anime>
@@ -480,7 +494,7 @@
     <anime>
         <image>https://cdn.myanimelist.net/images/anime/13/50521.jpg</image>
         <name>Hyouka</name>
-        <rating>134</rating>
+        <rating>144</rating>
         <status>finished</status>
     </anime>
     <anime>
