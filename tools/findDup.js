@@ -32,7 +32,7 @@ const sortOrder = (name) => {
 const findDuplicates = async () => {
     //loops over the sorted object and see if there are duplicates 
     data = await xmlData.animeset.anime
-    //console.log(data)
+    console.table(data)
     data.sort(sortOrder('image'))
     var foundOrNot = false;
     for(let i = 0; i < data.length - 1; i++){
